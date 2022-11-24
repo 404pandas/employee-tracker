@@ -1,0 +1,32 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "This is a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/404pandas/employee-tracker.git"
+  },
+  "keywords": [
+    "inquirer",
+    "command.table",
+    "express",
+    "npm",
+    "node.js"
+  ],
+  "author": "Mary Elenius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/404pandas/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/404pandas/employee-tracker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}

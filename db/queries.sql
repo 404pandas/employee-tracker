@@ -1,0 +1,4 @@
+-- Functions for performing specific SQL queries will go here
+-- A constructor function for class will be helpful organizing functions
+-- Bonus- View employees by manager, view employees by department, view total budget of department
+-- total budget = (combined salaries of all employees in that department)
