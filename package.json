@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "description": "This is a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
   "main": "server.js",
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": " node server.js"
   },
   "repository": {
     "type": "git",
@@ -27,6 +26,8 @@
   },
   "homepage": "https://github.com/404pandas/employee-tracker#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
   }
 }
