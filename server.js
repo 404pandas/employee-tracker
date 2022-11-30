@@ -35,7 +35,8 @@ function init() {
       switch (response.menu) {
         //   function to display "View Employees"
         case "View Employees":
-          connection.query(employees, function (err, results) {
+          connection.query(`SELECT *
+            FROM employee`, function (err, results) {
             console.log("\n");
             console.table(results);
             init();
@@ -43,7 +44,8 @@ function init() {
           break;
         // function to display "View Roles"
         case "View Roles":
-          connection.query(roles, function (err, results) {
+          connection.query(`SELECT *
+          FROM role`, function (err, results) {
             console.log("\n");
             console.table(results);
             init();
@@ -51,7 +53,8 @@ function init() {
           break;
         // function to display "View Departments"
         case "View Departments":
-          connection.query(departments, function (err, results) {
+          connection.query(`SELECT *
+            FROM department`, function (err, results) {
             console.log("\n");
             console.table(results);
             init();
