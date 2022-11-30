@@ -49,10 +49,7 @@ This is a command-line application from scratch to manage a company's employee d
 
 ## About The Project
 
-<!-- Add screenshots using the following format: -->
-<!-- ![Screenshot alt description](directPathOfScreenshots) -->
-
-![Screenshot of live image](directPathHere)
+https://user-images.githubusercontent.com/113853550/204922535-3b257f26-0d66-4653-b327-a9f32ec804cc.mp4
 
 ### Built With
 
