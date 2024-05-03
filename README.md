@@ -48,7 +48,7 @@ This is a Parks & Rec themed command-line application from scratch to manage a c
 
 ## About The Project
 
-https://github.com/404pandas/employee-tracker/assets/113853550/4b678e89-7902-49c6-9634-57f930876ab5
+https://github.com/404pandas/employee-tracker/assets/113853550/5f860558-46f3-41a8-a8a8-6ff62ce29595
 
 ### Built With
 
