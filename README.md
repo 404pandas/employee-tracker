@@ -48,7 +48,7 @@ This is a Parks & Rec themed command-line application from scratch to manage a c
 
 ## About The Project
 
-<video src="./assets/images/walkthrough.mp4" alt="Walkthrough video"></video>
+<video src="./assets/videos/walkthrough.mp4" alt="Walkthrough video"></video>
 
 ### Built With
 
