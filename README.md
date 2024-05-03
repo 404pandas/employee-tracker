@@ -39,7 +39,6 @@ This is a Parks & Rec themed command-line application from scratch to manage a c
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -49,7 +48,7 @@ This is a Parks & Rec themed command-line application from scratch to manage a c
 
 ## About The Project
 
-<video src="./assets/images/walkthrough video.mp4" alt="Walkthrough video"></video>
+<video src="./assets/images/walkthrough.mp4" alt="Walkthrough video"></video>
 
 ### Built With
 
@@ -89,10 +88,6 @@ Must have node and npm installed to run
 3. Run app
 
    `node index.js`
-
-## Usage
-
-Click [this link](https://drive.google.com/file/d/1xIoa3lg2amUZIUf6CCNROw30ElUcYLlR/view) to view a video of the application demo.
 
 ## Contributing
 
