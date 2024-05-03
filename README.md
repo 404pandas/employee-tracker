@@ -15,7 +15,7 @@
 
 This is a Parks & Rec themed command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, ASCII Art, and postgreSQL.
 
-<a href="https://drive.google.com/file/d/1xIoa3lg2amUZIUf6CCNROw30ElUcYLlR/view">View Demo - recording needed</a>
+<a href="#about-the-project">View Demo</a>
 ·
 <a href="https://github.com/404pandas/employee-tracker/issues">Report Bug</a>
 ·
