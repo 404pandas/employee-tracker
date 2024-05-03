@@ -26,8 +26,8 @@
   },
   "homepage": "https://github.com/404pandas/employee-tracker#readme",
   "dependencies": {
-    "console.table": "^0.10.0",
-    "inquirer": "^8.2.4",
-    "mysql2": "^2.3.3"
+    "asciiart-logo": "^0.2.6",
+    "inquirer": "8.2.4",
+    "pg": "^8.11.3"
   }
 }

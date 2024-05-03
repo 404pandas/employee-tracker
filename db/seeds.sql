@@ -1,4 +1,4 @@
-USE employee_tracker_db;
+\c employee_tracker_db;
 
 INSERT INTO department(name)
 VALUES ('Parks and Recreation'),
